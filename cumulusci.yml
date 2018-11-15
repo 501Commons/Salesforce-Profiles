@@ -1,0 +1,7 @@
+project:
+    name: Salesforce-Profiles
+    package:
+        name:  Salesforce-Profiles
+        api_version: '42.0'
+
+

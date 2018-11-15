@@ -1,0 +1,10 @@
+{
+  "orgName": "Salesforce-Profiles - Beta Test Org",
+  "edition": "Developer",
+  "orgPreferences" : {
+    "enabled": [
+      "S1DesktopEnabled",
+      "ChatterEnabled"
+    ]
+  }
+}

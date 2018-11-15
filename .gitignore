@@ -1,0 +1,11 @@
+.project
+.settings
+salesforce.schema
+Referenced Packages
+/config/
+/apex-scripts/
+/.DS_Store
+.sfdx/
+.vscode/
+temp/
+main/
